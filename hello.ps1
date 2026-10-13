@@ -1,1 +1,1 @@
-Write-Host "Hello Stade"
+Write-Host "Hello Bonn"
